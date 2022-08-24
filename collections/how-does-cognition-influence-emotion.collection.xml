@@ -1,139 +1,43 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11433</md:content-id>
-  <md:title>How does Cognition Influence Emotion?</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>e9870125-e711-4b95-b8a1-46ba7f0fbf48</md:uuid>
-<md:slug>how-does-cognition-influence-emotion</md:slug>
-</metadata>
-
+    <md:content-id>col11433</md:content-id>
+    <md:title>How does Cognition Influence Emotion?</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>e9870125-e711-4b95-b8a1-46ba7f0fbf48</md:uuid>
+    <md:slug>how-does-cognition-influence-emotion</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m51859"/>
-        
-      
-    
-    
-      <col:module document="m45967"/>
-        
-      
-    
-    
-      <col:module document="m51883"/>
-        
-      
-    
-    
-      <col:module document="m52067"/>
-        
-      
-    
-    
-      <col:module document="m52491"/>
-        
-      
-    
-    
-      <col:module document="m52495"/>
-        
-      
-    
-    
-      <col:module document="m52492"/>
-        
-      
-    
-    
-      <col:module document="m52496"/>
-        
-      
-    
-    
-      <col:module document="m52681"/>
-        
-      
-    
-    
-      <col:module document="m50381"/>
-        
-      
-    
-    
-      <col:module document="m14300"/>
-        
-      
-    
-    
-      <col:module document="m44930"/>
-        
-      
-    
-    
-      <col:module document="m44906"/>
-        
-      
-    
-    
-      <col:module document="m44928"/>
-        
-      
-    
-    
-      <col:module document="m44932"/>
-        
-      
-    
-    
-      <col:module document="m44929"/>
-        
-      
-    
-    
-      <col:module document="m41720"/>
-        
-      
-    
-    
-      <col:module document="m43728"/>
-        
-      
-    
-    
-      <col:module document="m14334"/>
-        
-      
-    
-    
-      <col:module document="m50398"/>
-        
-      
-    
-    
-      <col:module document="m50408"/>
-        
-      
-    
-    
-      <col:module document="m50415">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m14358/latest/">Emotion Book</cnxml:link>
-              <cnxml:link url="http://cnx.org/content/m50397/latest/">Cognition and Emotion Book</cnxml:link>
-              <cnxml:link url="http://cnx.org/content/m50408/latest/">Consciousness Article</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
+    <col:module document="m51859"/>
+    <col:module document="m45967"/>
+    <col:module document="m51883"/>
+    <col:module document="m52067"/>
+    <col:module document="m52491"/>
+    <col:module document="m52495"/>
+    <col:module document="m52492"/>
+    <col:module document="m52496"/>
+    <col:module document="m52681"/>
+    <col:module document="m50381"/>
+    <col:module document="m14300"/>
+    <col:module document="m44930"/>
+    <col:module document="m44906"/>
+    <col:module document="m44928"/>
+    <col:module document="m44932"/>
+    <col:module document="m44929"/>
+    <col:module document="m41720"/>
+    <col:module document="m43728"/>
+    <col:module document="m14334"/>
+    <col:module document="m50398"/>
+    <col:module document="m50408"/>
+    <col:module document="m50415">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/m14358/latest/">Emotion Book</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m50397/latest/">Cognition and Emotion Book</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m50408/latest/">Consciousness Article</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
   </col:content>
 </col:collection>
